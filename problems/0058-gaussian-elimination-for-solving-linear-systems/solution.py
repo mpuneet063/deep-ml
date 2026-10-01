@@ -22,8 +22,8 @@ def gaussian_elimination(A, b):
 		if pivot_row != i:
 			aug[i], aug[pivot_row] = aug[pivot_row].copy(), aug[i].copy()
 
-		# if abs(aug[i][i]) == 0:
-		# 	return "No unique solution"
+		if abs(aug[i][i]) < 1e-10:
+			return "No unique solution"
 
 		pivot = aug[i][i]
 		aug[i] = aug[i] / pivot
