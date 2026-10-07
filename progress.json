@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:43:48.203Z",
+  "generated_at": "2026-10-07T21:47:39.518Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -691,6 +691,19 @@
       "last_pushed_at": "2026-10-07T21:43:47.490Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-10-07T21:47:38.873Z",
+      "last_pushed_at": "2026-10-07T21:47:38.873Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
