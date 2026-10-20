@@ -12,6 +12,6 @@ def map_estimate_bernoulli(observations: list, alpha: float, beta: float) -> flo
     Returns:
         MAP estimate of the probability parameter, rounded to 4 decimal places
     """
-    k = len([i for i in observations if i == 1])
+    k = sum(observations)
 
     return (alpha + k -1) / (alpha + beta + len(observations) - 2)
