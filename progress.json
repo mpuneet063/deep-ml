@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:59:12.641Z",
+  "generated_at": "2026-10-20T22:01:15.065Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -983,6 +983,19 @@
       "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
       "first_solved_at": "2026-10-20T21:59:11.539Z",
       "last_pushed_at": "2026-10-20T21:59:11.539Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:338": {
+      "kind": "problem",
+      "id": "338",
+      "title": "Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/338",
+      "path": "problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter",
+      "first_solved_at": "2026-10-20T22:01:13.738Z",
+      "last_pushed_at": "2026-10-20T22:01:13.738Z",
       "language": "python",
       "lines": 17
     }
