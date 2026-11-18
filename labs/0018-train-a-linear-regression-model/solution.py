@@ -20,7 +20,7 @@ def train(X, y, W, b):
     # momentum, adaptive learning rates, mini-batching, etc.
     def _loss(true, pred):
         return np.mean((pred - true)**2)
-    epochs = 100
+    epochs = 5000
     lr = 0.01
     # using momentum based gradient-descent
     v_w, v_b = 0.0, 0.0
