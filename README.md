@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 59 problems · 0 labs · 37 math
+**97** solved · 59 problems · 1 labs · 37 math
 
 ![Coverage](./coverage.svg)
 
@@ -71,6 +71,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-10-21 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-05 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-10-12 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-11-18 | [solution](labs/0018-train-a-linear-regression-model) |
 
 ## Math
 
